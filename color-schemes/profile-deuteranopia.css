@@ -1,0 +1,24 @@
+/*VARIABLES*/
+:root {
+    --color-1: #99ffff;
+    --color-1-light: #CCffff;
+    --color-2: #009900;
+    --color-2-light: #33CC33;
+    --color-3: #003300;
+    --color-3-light: #336633;
+    --color-4: #6666FF;
+    --color-4-light: #9999FF;
+    --color-application-background: #CCffff;
+
+    /*TEMPLATE*/
+    --font-family: var(--color-font);
+    --header-border-color: var(--color-4-light);
+    --header-background-color: var(--color-4);
+    --header-font-color: var(--color-1-light);
+    --color-negative: #330033;
+    --color-negative-light: #660066;
+    --color-negative-content: #CCffff;
+    --color-positive: #000033;
+    --color-positive-light: #333366;
+    --color-positive-content: #CCffff;
+}
