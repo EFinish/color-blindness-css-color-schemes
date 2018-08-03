@@ -11,10 +11,6 @@
     --color-application-background: #FFFF99;
 
     /*TEMPLATE*/
-    --font-family: var(--color-font);
-    --header-border-color: var(--color-4-light);
-    --header-background-color: var(--color-4);
-    --header-font-color: var(--color-1-light);
     --color-negative: #330000;
     --color-negative-light: #663333;
     --color-negative-content: #FFFF99;
